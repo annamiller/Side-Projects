@@ -1,0 +1,1 @@
+This is a repository where I will keep jupyter notebook side projects. The intent of this repository is to allow me to get my hands dirty with some data. The hope is that this will be both an opportunity for me to increase both my ability to communication, and my data analysis skills.
